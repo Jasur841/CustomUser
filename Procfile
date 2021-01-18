@@ -1,1 +1,1 @@
-web: gunicorn CustomUSer.wsgi
+web: gunicorn CustomUser.wsgi
